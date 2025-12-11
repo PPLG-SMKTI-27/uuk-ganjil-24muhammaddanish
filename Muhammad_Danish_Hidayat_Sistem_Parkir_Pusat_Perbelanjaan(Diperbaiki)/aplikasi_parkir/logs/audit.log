@@ -1,0 +1,10 @@
+2025-12-10 11:07:03	delete	user:1	vehicle:2
+2025-12-10 11:08:38	update	user:1	vehicle:10
+2025-12-10 11:08:40	update	user:1	vehicle:10
+2025-12-10 11:08:42	exit	user:1	vehicle:10
+2025-12-10 11:08:47	delete	user:1	vehicle:10
+2025-12-10 11:13:34	exit	user:2	vehicle:11
+2025-12-10 11:20:44	delete	user:1	vehicle:11
+2025-12-10 11:20:56	update	user:1	vehicle:12
+2025-12-10 11:21:05	exit	user:1	vehicle:12
+2025-12-10 11:21:23	delete	user:1	vehicle:12
